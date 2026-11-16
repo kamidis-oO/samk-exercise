@@ -1,4 +1,5 @@
-﻿"""Helper functions for the samk-exercise demo."""
+﻿#!/usr/bin/python3
+"""Helper functions for the samk-exercise demo."""
 
 
 def add(a, b):

@@ -1,4 +1,5 @@
-﻿"""Entry point for the samk-exercise demo."""
+﻿#!/usr/bin/python3
+"""Entry point for the samk-exercise demo."""
 
 from functions import add, greet
 
