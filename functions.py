@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python3
+#!/usr/bin/python3
 """Helper functions for the samk-exercise demo."""
 
 
